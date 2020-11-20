@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-20T18:35:48.401Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" version="13.9.8" etag="69mkIKM9_RQ59949hUgF" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2020-11-20T18:57:10.144Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" version="13.9.8" etag="E-1fwdORrvP6hwehi2NC" type="github" pages="13">
   <diagram id="53c79ec5-416a-b0b1-564f-1ec37005c78b" name="01 - query">
     <mxGraphModel dx="1038" dy="1056" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" background="#ffffff" math="0" shadow="0">
       <root>
@@ -359,47 +359,47 @@
     </mxGraphModel>
   </diagram>
   <diagram id="040cd60b-2c42-d7f9-1f69-dd10afa56b33" name="11 - json">
-    <mxGraphModel dx="990" dy="430" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="1056" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="2" value="{&lt;br&gt;&amp;nbsp; &quot;_id&quot;:&quot;5a85dc351cd843163727f63c&quot;,&lt;br&gt;&amp;nbsp; &quot;googleId&quot;:&quot;111739110062406498094&quot;,&lt;br&gt;&amp;nbsp; &quot;displayName&quot;:&quot;Emaily Dev&quot;,&lt;br&gt;&amp;nbsp; &quot;__v&quot;:0&lt;br&gt;}" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=19;align=left;" vertex="1" parent="1">
+        <mxCell id="2" value="{&lt;br&gt;&amp;nbsp; &quot;_id&quot;:&quot;5a85dc351cd843163727f63c&quot;,&lt;br&gt;&amp;nbsp; &quot;googleId&quot;:&quot;111739110062406498094&quot;,&lt;br&gt;&amp;nbsp; &quot;displayName&quot;:&quot;Emaily Dev&quot;,&lt;br&gt;&amp;nbsp; &quot;__v&quot;:0&lt;br&gt;}" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=19;align=left;" parent="1" vertex="1">
           <mxGeometry x="440" y="185" width="350" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="3" value="JSON Representation of Model" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="3" value="JSON Representation of Model" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="475" y="162" width="293" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="4" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=19;align=left;" vertex="1" parent="1">
+        <mxCell id="4" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=19;align=left;" parent="1" vertex="1">
           <mxGeometry x="850" y="190" width="400" height="155" as="geometry" />
         </mxCell>
-        <mxCell id="5" value="Mongoose Model" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="5" value="Mongoose Model" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="937.5" y="160" width="225" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="6" value="get" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=19;align=center;" vertex="1" parent="1">
+        <mxCell id="6" value="get" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=19;align=center;" parent="1" vertex="1">
           <mxGeometry x="860" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7" value="set" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=19;align=center;" vertex="1" parent="1">
+        <mxCell id="7" value="set" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=19;align=center;" parent="1" vertex="1">
           <mxGeometry x="990" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8" value="validate" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=19;align=center;" vertex="1" parent="1">
+        <mxCell id="8" value="validate" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=19;align=center;" parent="1" vertex="1">
           <mxGeometry x="1120" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9" value="isModified" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=19;align=center;" vertex="1" parent="1">
+        <mxCell id="9" value="isModified" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=19;align=center;" parent="1" vertex="1">
           <mxGeometry x="860" y="270" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="10" value="attrs" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=19;align=center;" vertex="1" parent="1">
+        <mxCell id="10" value="attrs" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=19;align=center;" parent="1" vertex="1">
           <mxGeometry x="990" y="270" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="11" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;fontSize=19;align=center;rotation=-90;" vertex="1" parent="1">
+        <mxCell id="11" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;fontSize=19;align=center;rotation=-90;" parent="1" vertex="1">
           <mxGeometry x="600" y="200" width="30" height="350" as="geometry" />
         </mxCell>
-        <mxCell id="12" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;fontSize=19;align=center;rotation=-90;" vertex="1" parent="1">
+        <mxCell id="12" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;fontSize=19;align=center;rotation=-90;" parent="1" vertex="1">
           <mxGeometry x="1035" y="175" width="30" height="400" as="geometry" />
         </mxCell>
-        <mxCell id="13" value="&lt;i&gt;We are returning this&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="1">
+        <mxCell id="13" value="&lt;i&gt;We are returning this&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" parent="1" vertex="1">
           <mxGeometry x="552.5" y="400" width="125" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="14" value="&lt;i&gt;Our app expects this&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="1">
+        <mxCell id="14" value="&lt;i&gt;Our app expects this&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" parent="1" vertex="1">
           <mxGeometry x="985" y="400" width="125" height="20" as="geometry" />
         </mxCell>
       </root>
